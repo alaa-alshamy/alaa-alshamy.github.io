@@ -3,3 +3,7 @@
 	border-radius: 75px;
 	border: 0 !important;
 }
+
+.reveal .progress {
+	height: 20px !important;
+}
